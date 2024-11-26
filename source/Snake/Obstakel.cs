@@ -1,4 +1,4 @@
-public class Obstakel
+public class Obstacle
 
 {
 
@@ -6,8 +6,8 @@ public class Obstakel
 
     // ?
 
-    public ConsoleColor schermKleur { get; set; }
+    public ConsoleColor screenColor { get; set; }
 
-    public string karacter { get; set; }
+    public string character { get; set; }
 
 }
