@@ -154,7 +154,7 @@ class Program
                 }
             }
 
-            Thread.Sleep(100); // Adjust speed of the snake
+            Thread.Sleep(50); // Adjust speed of the snake
         }
     }
 }
