@@ -8,6 +8,6 @@ public class Pixel
 
     public ConsoleColor screenColor { get; set; }
 
-    public string character { get; set; }
+    public string? Character { get; set; }
 
 }
